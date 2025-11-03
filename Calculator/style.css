@@ -1,0 +1,41 @@
+
+#container {
+    width: 300px;
+    margin: 100px auto;
+    background: #000000;
+    padding: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+
+#display {
+    width: 100%;
+    font-size: xx-large;
+    height: 70px;
+    background: #f0efef;
+    color: #030303;
+    padding: 10px;
+    justify-content: right;
+    align-items: end;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+button {
+    height: 70px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    background: #4ce398;
+    color: #fff;
+}
+
+button:nth-child(17) {
+    grid-column: span 2;
+    text-align: left;
+    padding-left: 28px;
+}
