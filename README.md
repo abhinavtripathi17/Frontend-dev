@@ -1,53 +1,53 @@
-# 🌐 My Frontend Project
+# 💻 Frontend Development
 
-This project was built using **HTML** and **CSS** to strengthen my frontend development skills.  
-It focuses on creating clean layouts, responsive designs, and visually appealing UI components.
+Welcome to the Frontend Development repository.
 
----
-
-## 🚀 Project Overview
-- Designed and structured a responsive webpage using **semantic HTML**.
-- Styled components with **modern CSS techniques** like Flexbox and Grid.
-- Ensured a mobile-first approach with **media queries**.
-- Added smooth transitions, hover effects, and a clean color palette.
+This repository contains all lecture notes, assignments, and code examples discussed during class—covering everything from the fundamentals of HTML to modern responsive web design with CSS.
 
 ---
 
-## 🧠 What I Learned
 
-### 🔹 HTML
-- Proper structure using semantic tags (`<header>`, `<main>`, `<footer>`, etc.)
-- Creating and styling forms (`<form>`, `<input>`, `<button>`)
-- Linking external CSS and JS files
-- Embedding images, videos, and external content
-- Organizing layout with `<div>` and `<section>`
+## 📅 Lecture Breakdown
 
-### 🔹 CSS
-- Styling elements using **classes**, **IDs**, and **combinators**
-- Creating responsive layouts using **Flexbox** and **Grid**
-- Applying **gradients**, **shadows**, and **rounded corners**
-- Using **media queries** for different screen sizes
-- Implementing **transitions** and **hover effects**
-- Understanding the **Box Model** and element positioning
+### Lecture 1: Introduction to Web Development
+* Overview of frontend, backend, and full-stack development
+* Understanding how browsers render web pages
+* The client–server model and web request flow
+* Setting up tools: VS Code, GitHub, and Live Server
+
+### Lecture 2: HTML Fundamentals
+* Structure of an HTML document
+* Headings, paragraphs, links, lists, and images
+* Semantic elements: `<header>`, `<footer>`, `<nav>`, `<section>`
+* Best practices for clean, readable markup
+
+### Lecture 3: Page Elements and Embedding Content
+* Difference between block and inline elements
+* Embedding videos, maps, and other web content using `iframes`
+* Attributes like `src`, `width`, `height`, and `allowfullscreen`
+
+### Lecture 4: Introduction to CSS
+* Ways to add CSS: inline, internal, and external
+* Understanding selectors, properties, and values
+* Basic styling: colors, fonts, and spacing
+* Using Chrome DevTools for inspection and quick styling
+
+### Lecture 5: Layout Techniques with Flexbox and Box Model
+* Understanding the CSS box model: content, padding, border, and margin
+* The `box-sizing` property and layout debugging
+* Flexbox fundamentals for aligning and distributing items
+* Building a responsive navbar and gallery layout
+
+### Lecture 6: Advanced CSS Concepts
+* Pseudo-classes like `:hover`, `:focus`, and `:nth-child()`
+* Transitions and transforms for smooth animations
+* Dimension units: `px`, `em`, `rem`, `vh`, `vw`, and `%`
+* Combining these concepts for interactive designs
+
+### Lecture 7: Responsive Design and Final Project
+* Principles of responsive web design
+* Using media queries for mobile and desktop views
+* Grid layout for two-dimensional designs
+* Final project: building a fully responsive webpage using all learned concepts
 
 ---
-
-## 🧩 Tech Stack
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5**
-
----
-
-## 💡 Future Improvements
-- Add a navigation bar with scroll animations  
-- Include a light/dark theme toggle  
-- Add interactive JavaScript features  
-
-
----
-
-## 🧑‍💻 Author
-**Abhinav Tripathi**  
-💬 Feel free to connect or suggest improvements!
-
