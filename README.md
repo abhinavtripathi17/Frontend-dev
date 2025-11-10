@@ -4,6 +4,19 @@ This repository documents the complete journey through our Frontend Development 
 
 ---
 
+## 📅 Daily Class Activity (What I Did Each Day)
+
+| Date | What I did in class |
+|:---:|:---|
+| **09 Oct** | Learned HTML Tables → Created TimeTable |
+| **10 Oct** | Explored Block vs Inline Elements → Practiced `<div>` & `<span>` |
+| **16 Oct** | CSS Basics → Selectors, Fonts, Colors → Styled blog UI |
+| **31 Oct** | CSS Grid Layout → Built Calculator Layout |
+| **03 Nov** | Flexbox → Built Responsive Navbar |
+| **07 Nov** | Final Project → Complete Mobile-first Website |
+
+---
+
 ## 🎯 Core Competencies
 
 Upon completing this course, you will have mastered the following skills:
@@ -36,11 +49,11 @@ This course is broken down into 10 key lectures.
 
 ### 🟫 Lecture 5: The CSS Box Model
 * **Core Concepts:** Content, Padding, Border, Margin, and the all-important `box-sizing: border-box`.
-* * **Task** Examination Portal.
+* **Task** Examination Portal.
 
 ### 🟪 Lecture 6: CSS Layout - Flexbox
 * **Core Concepts:** Parent/child properties, `justify-content`, `align-items`, and building responsive components like navbars.
-* * **Task** Zomato UI .
+* **Task** Zomato UI.
 
 ### 🟧 Lecture 7: CSS Layout - Grid
 * **Core Concepts:** `grid-template-columns/rows`, `gap`, and creating complex, grid-based page designs.
@@ -85,7 +98,7 @@ This section maps our practical work (projects) to the repository's file structu
 ## 👤 Course Personnel
 
 ### Author
-* **Shambhavi Singh**
+* **Abhinav Tripathi**
 
 ### 🙏 Acknowledgements
-* A special thanks to our instructors, **[Instructor Name 1]** and **[Instructor Name 2]**, for their valuable mentorship and practical guidance throughout this course.
+* A special thanks to our instructors — **Mr. Sahil Kumar** and **Mr. Deepak Prasad**, for their valuable mentorship and practical guidance throughout this course.
