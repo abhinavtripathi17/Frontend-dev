@@ -1,8 +1,5 @@
-# 🚀 Frontend Engineering: Course Blueprint
+#  Frontend Engineering: Course Blueprint
 
-This repository documents the complete journey through our Frontend Development course. It's a living archive of all concepts, code, and projects, from the first `<div>` to a fully responsive final build.
-
----
 
 ## 📅 Daily Class Activity (What I Did Each Day)
 
@@ -14,6 +11,7 @@ This repository documents the complete journey through our Frontend Development 
 | **31 Oct** | CSS Grid Layout → Built Calculator Layout |
 | **03 Nov** | Flexbox → Built Responsive Navbar |
 | **07 Nov** | Final Project → Complete Mobile-first Website |
+| **10 Nov** | JavaScript -> Introduction , datatypes , arrays , loops , function |
 
 ---
 
