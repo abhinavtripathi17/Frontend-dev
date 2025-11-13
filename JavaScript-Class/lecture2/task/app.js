@@ -10,7 +10,7 @@ let box = document.getElementById('box');
 
 
 btn1.addEventListener('click' , () => {
-    box.style.backgroundColor = '#dc3545';
+    box.style.backgroundColor = '#db0e0ee8';
 })
 
 btn2.addEventListener('click' , () => {
