@@ -1,5 +1,5 @@
 
-
+//counter
 
 let count = document.getElementById('count');
 let inc = document.getElementById('inc');
