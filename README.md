@@ -1,4 +1,4 @@
-#  Frontend Engineering: Course Blueprint
+#  Frontend Development: Blueprint
 
 
 ## 📅 Daily Class Activity (What I Did Each Day)
@@ -11,7 +11,11 @@
 | **31 Oct** | CSS Grid Layout → Built Calculator Layout |
 | **03 Nov** | Flexbox → Built Responsive Navbar |
 | **07 Nov** | Final Project → Complete Mobile-first Website |
-| **10 Nov** | JavaScript -> Introduction , datatypes , arrays , loops , function |
+| **10 Nov** | JavaScript -> In this session, we covered the Introduction to JavaScript, exploring JavaScript Types,Operators, Logical Operators, Math in JavaScript, and Control Structures.| 
+| **12 Nov** | JavaScript ->  In this session, we covered Scope, Events, Strings, and Arrays in JavaScript.|
+| **13 Nov** | In this session, we covered JavaScript ES Features, focusing on DOM, Hoisting, Functions, and Arrow Functions to enhance your coding efficiency and modern JavaScript skills.|
+
+
 
 ---
 
@@ -65,31 +69,14 @@ This course is broken down into 10 key lectures.
 ### 💎 Lecture 10: CSS Frameworks
 * **Core Concepts:** Introduction to Bootstrap, using its grid system and pre-built components.
 
----
+### 💎 Lecture 11: Javascript Introduction
+* **Core Concepts:** We covered Introduction to JavaScript, exploring JavaScript Types, Operators, Logical Operators, Math in JavaScript, and Control Structures.
 
-## 🛠️ Project Log & Repository Index
+### 💎 Lecture 12: Javascript Operators
+* **Core Concepts:**We covered Scope, Events, Strings, and Arrays in JavaScript , builts colors changing card using eventListeners and inline js.
 
-This section maps our practical work (projects) to the repository's file structure.
-
-| 📂 Folder Location | 🎯 Lecture / Assignment | 📝 Description |
-| :--- | :--- | :--- |
-| `01-Intro-to-Web` | Lecture 1 Materials | Setup and Web Fundamentals |
-| `02-HTML-Basics` | Lecture 2 Materials | HTML Structure and Semantic Tags |
-| `03-HTML-Elements` | Lecture 3 Materials | Block/Inline and Iframes |
-| `04-CSS-Intro` | Lecture 4 Materials | CSS Basics, Selectors, and Styling |
-| `05-CSS-Box-Model` | Lecture 5 Materials | Box Model and Sizing |
-| `06-CSS-Flexbox` | Lecture 6 Materials | Flexbox Layouts |
-| `07-CSS-Grid` | Lecture 7 Materials | Grid Layouts |
-| `08-CSS-Advanced` | Lecture 8 Materials | Pseudo-classes, Transitions, Animations |
-| `09-Responsive-Design` | Lecture 9 Materials | Media Queries and Mobile-First |
-| `10-Bootstrap-Intro` | Lecture 10 Materials | Bootstrap Framework |
-| `Assignments/` | **All Submissions** | Contains all graded work below: |
-| `Assignments/01-HTML-Timetable`| (Oct 09) HTML Timetable | Created a class timetable using `<table>`. |
-| `Assignments/02-HTML-Elements`| (Oct 10) HTML Elements | Built a webpage demonstrating block vs. inline. |
-| `Assignments/03-CSS-Basics` | (Oct 16) CSS Basics | Styled a basic blog post with colors and fonts. |
-| `Assignments/04-Grid-Calculator` | (Oct 31) Box Model & Grid | Built a calculator layout using CSS Grid. |
-| `Assignments/05-Flexbox-Navbar` | (Nov 03) Flexbox | Created a responsive navigation bar using Flexbox. |
-| `Final-Project/` | (Nov 07) **Final Project** | Built a complete, mobile-first responsive website. |
+### 💎 Lecture 13: JavaScript ES Features, Switch, Loops, Functions, and Arrow Functions
+* **Core Concepts:**We covered JavaScript ES Features, focusing on DOM, Hoisting, Functions, Arrow Functions , and built a counter using DOM manipulation.
 
 ---
 
