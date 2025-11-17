@@ -12,8 +12,8 @@
 | **03 Nov** | Flexbox → Built Responsive Navbar |
 | **07 Nov** | Final Project → Complete Mobile-first Website |
 | **10 Nov** | JavaScript -> In this session, we covered the Introduction to JavaScript, exploring JavaScript Types,Operators, Logical Operators, Math in JavaScript, and Control Structures.| 
-| **12 Nov** | JavaScript ->  In this session, we covered Scope, Events, Strings, and Arrays in JavaScript.|
-| **13 Nov** | In this session, we covered JavaScript ES Features, focusing on DOM, Hoisting, Functions, and Arrow Functions to enhance your coding efficiency and modern JavaScript skills.|
+| **12 Nov** | JavaScript -> In this session, we covered Scope, Events, Strings, and Arrays in JavaScript.|
+| **13 Nov** | JavaScript -> In this session, we covered JavaScript ES Features, focusing on DOM, Hoisting, Functions, and Arrow Functions to enhance your coding efficiency and modern JavaScript skills.|
 
 
 
