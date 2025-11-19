@@ -16,7 +16,9 @@
 | **07 Nov** | Wrapped up with a complete mobile-first website as the final project |
 | **10 Nov** | JavaScript Basics → Types, Operators, Logical Ops, Math, Control Structures |
 | **12 Nov** | JavaScript → Scope, Events, Strings, Arrays |
-| **13 Nov** | JavaScript → ES6 Features, DOM, Hoisting, Arrow Functions → Built Counter App |
+| **13 Nov** | JavaScript → ES6 Features, DOM, Hoisting, Arrow Functions → Built Counter App |]
+| **17 Nov** | JavaScript → Typecasting , Error handling , Hoisting in JS |
+
 
 ---
 
@@ -79,6 +81,9 @@ This course is structured into 13 progressive lectures:
 > DOM Manipulation, Hoisting, Arrow Functions  
 🔧 **Task:** Create a Counter UI
 
+### 🔁 Lecture 14: TypeCasting, Errors , Hoisting  
+> TypeCasting in JS , Error Handling , Hoisting and types.
+🔧 **Task:** Created a webpage with hamburger menu.
 ---
 
 ## 👨‍🏫 Course Facilitators
