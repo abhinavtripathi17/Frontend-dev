@@ -83,7 +83,7 @@ This course is structured into 13 progressive lectures:
 
 ### 🔁 Lecture 14: TypeCasting, Errors , Hoisting  
 > TypeCasting in JS , Error Handling , Hoisting and types.
-🔧 **Task:** Created a webpage with hamburger menu.
+🔧 **Task:** Created a webpage with hamburger menu
 ---
 
 ## 👨‍🏫 Course Facilitators
