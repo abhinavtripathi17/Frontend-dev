@@ -82,7 +82,7 @@ This course is structured into 13 progressive lectures:
 🔧 **Task:** Create a Counter UI
 
 ### 🔁 Lecture 14: TypeCasting, Errors , Hoisting  
-> TypeCasting in JS , Error Handling , Hoisting and types.
+> TypeCasting in JS , Error Handling , Hoisting and types.<br>
 🔧 **Task:** Created a webpage with hamburger menu
 ---
 
