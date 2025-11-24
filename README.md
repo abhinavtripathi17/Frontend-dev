@@ -79,7 +79,7 @@ This course is structured into 13 progressive lectures:
 > Scope, Events, Strings, Arrays  .
 🔧 **Task:** Color-changing card using events
 
-### 🔁 Lecture 13: DOM, ES6, Functions  
+### 🟫 Lecture 13: DOM, ES6, Functions  
 > DOM Manipulation, Hoisting, Arrow Functions.  
 🔧 **Task:** Create a Counter UI
 
@@ -87,11 +87,11 @@ This course is structured into 13 progressive lectures:
 > TypeCasting in JS , Error Handling , Hoisting and types.<br>
 🔧 **Task:** Created a webpage using hamburger menu
 
-### 🔁 Lecture 15: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
+### 📱 Lecture 15: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
 > Concept of Classes , Types of Function , HOF , Callback Function , Promise , Async-Await , OOPS Concpet.<br>
 🔧 **Task:** Created a webpage with hamburger menu
 
-### 🔁 Lecture 16: ### 🔁 Lecture 15: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
+### 🔁 Lecture 16: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
 > explored AJAX and jQuery, covering jQuery syntax, selectors, event handling, and DOM manipulation.<br>
 🔧 **Task:** Use the Fetch API to get data from an endpoint and display it on the page.  
 ---
