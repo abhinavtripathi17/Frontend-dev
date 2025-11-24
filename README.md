@@ -19,7 +19,7 @@
 | **13 Nov** | JavaScript → ES6 Features, DOM, Hoisting, Arrow Functions → Built Counter App |
 | **17 Nov** | JavaScript → Typecasting , Error handling , Hoisting in JS |
 | **19 Nov** | JavaScript → Concept of Classes , Arrow Functions , Anonymous Function , HOF , Prototypes , Promise , OOPS |
-
+| **20 Nov** | JavaScript → AJAX and jQuery, covering jQuery syntax, selectors, event handling, and DOM manipulation |
 
 
 ---
@@ -90,6 +90,10 @@ This course is structured into 13 progressive lectures:
 ### 🔁 Lecture 15: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
 > Concept of Classes , Types of Function , HOF , Callback Function , Promise , Async-Await , OOPS Concpet.<br>
 🔧 **Task:** Created a webpage with hamburger menu
+
+### 🔁 Lecture 16: ### 🔁 Lecture 15: Classes , Fuctions , Prototypes , Callback Function , Promise , OOPS  
+> explored AJAX and jQuery, covering jQuery syntax, selectors, event handling, and DOM manipulation.<br>
+🔧 **Task:** Use the Fetch API to get data from an endpoint and display it on the page.  
 ---
 
 ## 👨‍🏫 Course Facilitators
